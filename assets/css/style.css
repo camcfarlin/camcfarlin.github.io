@@ -101,7 +101,7 @@ PAGE: ABOUT
 body {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 1em;
-	background-image: url('/Users/cesarmcfarlin/Documents/GitHub/Basic-Portfolio/assets/images/light-grey-terrazzo.png');
+	background-image: url('../images/light-grey-terrazzo.png');
 	margin: 0 auto;
 	padding-bottom: 50px;
 }
@@ -184,7 +184,7 @@ input {
 	width: 98%;
 }
 /* set text marker to top?*/
-input[name="message"] {
+input textarea {
 	height: 100px;
 
 }

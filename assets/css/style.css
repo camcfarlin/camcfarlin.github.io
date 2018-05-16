@@ -66,10 +66,8 @@ header {
 	padding-left: 20px;
 }
 
-/*  Header is too responsive cant make it stay a fixed size */
-
 #top {
-	margin-left: -20px; /*** For Mobile site only***/
+	margin-left: -20px; /*** Mobile y***/
 }
 
 /****************************************
@@ -183,9 +181,11 @@ form {
 input {
 	width: 98%;
 }
-/* set text marker to top?*/
-input textarea {
+
+textarea {
+	width: 98%;
 	height: 100px;
+	resize: none;
 
 }
 

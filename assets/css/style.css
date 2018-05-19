@@ -158,7 +158,8 @@ PAGE: PORTFOLIO
 	position: absolute;
 	bottom: -11px;
 	text-align: center;
-	width: 250px;
+	width: 98%;
+	right: 49.5555px;
 	color: white;
 	transform: translate(6%, -47%);
 	background-color: #4aaaa5;
